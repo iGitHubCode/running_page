@@ -58,6 +58,7 @@ jobs:
           build_dir: public
           # Write the given domain name to the CNAME file
           #fqdn: custom.domain.name # optional
+          fqdn: https://powerful.run # 2023-01-29
           # Prevent Jekyll from building the site
           jekyll: false
         env:
