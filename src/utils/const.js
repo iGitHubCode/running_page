@@ -22,7 +22,7 @@ const IS_CHINESE = true;
 const USE_ANIMATION_FOR_GRID = false;
 const CHINESE_INFO_MESSAGE = (yearLength, year) => {
   const yearStr = year === 'Total' ? '所有' : ` ${year} `;
-  return `我用 GARMIN Forerunner 245M 记录自己跑步 ${yearLength} 年了，下面列表展示的是${yearStr}的数据`;
+  return `我用 GARMIN245M 记录自己跑步 ${yearLength} 年了，下面列表展示的是${yearStr}的数据`;
 }
 const ENGLISH_INFO_MESSAGE = (yearLength, year) =>
   `Running Journey with ${yearLength} Years, the table shows year ${year} data`;
