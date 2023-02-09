@@ -3,7 +3,7 @@ module.exports = {
   siteMetadata: {
     siteTitle: 'Running Page',
     siteUrl: 'https://powerful.run',
-    logo: 'https://s3.bmp.ovh/imgs/2023/02/09/3ae70e2aa67fc840.jpg',
+    logo: 'https://s3.bmp.ovh/imgs/2023/02/09/5b03b48727f52ade.jpg',
     description: 'Personal site and blog',
     navLinks: [
       {
